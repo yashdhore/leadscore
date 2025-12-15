@@ -1,8 +1,10 @@
 streamlit
 pandas
-joblib
-xgboost
+numpy
+joblib==1.3.2
+scikit-learn==1.3.2
+xgboost==2.0.3
 azure-cosmos==4.0.0
-scikit-learn
 plotly
-Image
+Pillow
+
